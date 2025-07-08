@@ -32,8 +32,8 @@ Ensure Python 3.8+ is installed.
 
 1. Clone the repo:
 
-       git clone https://github.com/yourusername/IMDb_Dashboard_Project.git
-       cd IMDb_Dashboard_Project
+       git clone [https://github.com/yourusername/IMDb_Dashboard_Project.git](https://github.com/Arjun-Karthik/IMDb-Dashboard.git)
+       cd IMDb_Dashboard
 
 2.Install dependencies
 
