@@ -78,7 +78,7 @@ Install all with:
 
 ## 🎥 Demo Video
 
-   <a href="https://www.linkedin.com/posts/arjun-t-a51383200_imdb-movie-dashboard-app-activity-7348370456242003969-Nd0G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNQBh0BQsEphYCjQb01l17Z8-pUyINZuxs">Demo Video</a>
+   <a href="https://www.linkedin.com/posts/arjun-t-a51383200_imdb-movie-dashboard-app-activity-7348370456242003969-Nd0G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNQBh0BQsEphYCjQb01l17Z8-pUyINZuxs">IMDb Movie Dashboard Demo Video</a>
 
 ## 📃 License
 
