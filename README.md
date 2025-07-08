@@ -1,4 +1,4 @@
-# IMDB_2024_Data_Scraping_and_Visualizations
+# 🎬 IMDB_2024_Data_Scraping_and_Visualizations
 
 ## ⚙️ Workflow
 1. Data Scraping
