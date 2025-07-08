@@ -76,6 +76,10 @@ Install all with:
 
 <img src="Screenshots/histogram.png" width="800"/>
 
+## 🎥 Demo Video
+
+   <a href="https://www.linkedin.com/posts/arjun-t-a51383200_imdb-movie-dashboard-app-activity-7348370456242003969-Nd0G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNQBh0BQsEphYCjQb01l17Z8-pUyINZuxs">Demo Video</a>
+
 ## 📃 License
 
    This project is licensed under the MIT License – see the LICENSE file for details.
