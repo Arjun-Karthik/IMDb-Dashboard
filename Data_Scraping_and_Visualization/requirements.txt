@@ -1,6 +1,0 @@
-selenium
-streamlit
-pandas
-matplotlib
-seaborn
-plotly
