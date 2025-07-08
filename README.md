@@ -3,7 +3,7 @@
 ## ⚙️ Workflow
 1. Data Scraping
 
-Uses Selenium to scrape movie title, genre, rating, vote counts, and runtime from IMDb.
+       Uses Selenium to scrape movie title, genre, rating, vote counts, and runtime from IMDb.
 
 Scraped data is stored in IMDB_Movies_Data.csv.
 
