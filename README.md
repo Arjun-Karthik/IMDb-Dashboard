@@ -1,6 +1,6 @@
 # IMDB_2024_Data_Scraping_and_Visualizations
 
-##⚙️ Workflow
+## ⚙️ Workflow
 1. Data Scraping
 
 Uses Selenium to scrape movie title, genre, rating, vote counts, and runtime from IMDb.
@@ -35,7 +35,7 @@ Correlation between ratings and votes
 
 Download filtered data
 
-##▶️ Running the App
+## ▶️ Running the App
 Ensure Python 3.8+ is installed.
 
 1. Clone the repo:
@@ -53,7 +53,7 @@ streamlit run app.py
 
 4. Upload the CSV file (IMDB_Movies_Data.csv) when prompted in the app.
 
-##🧩 Features
+## 🧩 Features
 
 Genre-based filtering with exploded multi-genre support.
 
@@ -65,7 +65,7 @@ Genre-wise average ratings and vote counts.
 
 Rating-based leaderboards and extremes.
 
-##✅ Requirements
+## ✅ Requirements
 
 streamlit
 
@@ -83,17 +83,17 @@ Install all with:
 
 pip install -r requirements.txt
 
-##📸 Screenshots
+## 📸 Screenshots
 
-###📊 Genre Distribution
+### 📊 Genre Distribution
 
 <img src="screenshots/barchart.png" width="800"/>
 
-###📊 Distribution of Movie Ratings
+### 📊 Distribution of Movie Ratings
 
 <img src="screenshots/histogram.png" width="800"/>
 
-##📃 License
+## 📃 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
