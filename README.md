@@ -70,11 +70,11 @@ Install all with:
 
 ### 📊 Genre Distribution
 
-<img src="screenshots/barchart.png" width="800"/>
+<img src="Screenshots/barchart.png" width="800"/>
 
 ### 📊 Distribution of Movie Ratings
 
-<img src="screenshots/histogram.png" width="800"/>
+<img src="Screenshots/histogram.png" width="800"/>
 
 ## 📃 License
 
