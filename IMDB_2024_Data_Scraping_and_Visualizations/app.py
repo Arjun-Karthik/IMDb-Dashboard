@@ -221,7 +221,7 @@ if file:
             fig.update_layout(
                 width=700,
                 height=500,  
-                margin=dict(t=20, b=20, l=20, r=50)
+                margin=dict(t=70, b=20, l=20, r=50)
             )
             st.plotly_chart(fig)
 
